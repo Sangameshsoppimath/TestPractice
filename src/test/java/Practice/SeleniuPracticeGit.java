@@ -9,6 +9,8 @@ public class SeleniuPracticeGit
 	{
 		System.out.println("Test added 1");
 		System.out.println("Test added 2");
+		System.out.println("Test added From TestPractice");
+		
 		
 		
 	}
