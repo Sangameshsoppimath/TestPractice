@@ -14,5 +14,16 @@ public class SeleniuPracticeGit
 		
 		
 	}
+	
+	@Test
+	public void demo1()
+	{
+		System.out.println("Test added From TestPractice Demo1");
+		System.out.println("Test added From TestPractice Demo1");
+		System.out.println("Test added From TestPractice Demo1");
+		
+		
+		
+	}
 
 }
